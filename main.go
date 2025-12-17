@@ -1,6 +1,3 @@
-func main() {
-    fmt.Println("--- STARTING APP VERSION 2.0 (New Update) ---")
-}
 package main
 
 import (
