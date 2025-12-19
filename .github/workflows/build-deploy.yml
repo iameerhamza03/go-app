@@ -77,6 +77,3 @@ jobs:
               --restart always \
               -p 8080:8080 \
               $FULL_IMAGE
-
-            echo "Cleaning up old images..."
-            sudo docker image prune -f
